@@ -1,5 +1,5 @@
 let config = {
-    token: "NzcyMzEzODYwNjg5MzYyOTY0.X543VQ.YfhSKgiLwq7ORQsBeatrEfHSbe8",
+    token: "TU_TOKEN",
     prefix: "!"
 }
 module.exports = config;
